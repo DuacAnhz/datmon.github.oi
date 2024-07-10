@@ -1,0 +1,67 @@
+{
+  "monan": [
+    {
+      "id": "ee22222",
+      "tenda": "tenda",
+      "hinhanh": "hinhanh",
+      "gia": 0,
+      "mota": "mota",
+      "thanh_phan_che_bien": "thanh_phan_che_bien",
+      "danh_muc": "danh_muc",
+      "soluong_monan": 0
+    }
+  ],
+  "nguoidat": [
+    {
+      "ten": "Nguyễn Văn A",
+      "dia_chi": "Số 123, Đường ABC, Quận XYZ, Thành phố HCM",
+      "sdt": "0987654321",
+      "datmon": "Hành",
+      "soluong_nguoidat": "123435",
+      "tong_tien": "6700000000",
+      "id": "ece2"
+    }
+  ],
+  "datmon": [
+    {
+      "ten": "Nguyễn Văn B",
+      "dia_chi": "123",
+      "sdt": "0987654321",
+      "datmon": "Bún bò Huế",
+      "tong_tien": 50000,
+      "id": "ee2"
+    }
+  ],
+  "lienhe": [
+    {
+      "ten": "Nguyễn Văn B",
+      "email": "123",
+      "noidung": "0987654321",
+      "id": "ecce2"
+    },
+    {
+      "id": "db0d",
+      "ten": "chu ",
+      "email": "dsda@gmail.com",
+      "noidung": "sdsd"
+    },
+    {
+      "id": "1854",
+      "ten": "chu ",
+      "email": "dsda@gmail.com",
+      "noidung": "qưeretyr"
+    },
+    {
+      "id": "99d9",
+      "ten": "chu ",
+      "email": "dsda@gmail.com",
+      "noidung": "ngon"
+    },
+    {
+      "id": "42a3",
+      "ten": "chu ",
+      "email": "dsda@gmail.com",
+      "noidung": "1"
+    }
+  ]
+}
